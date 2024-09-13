@@ -1,6 +1,11 @@
 python-dotenv~=1.0.1
-langchain>=0.2.14
-langchain-community>=0.2.12
-qianfan>=0.4.6
-pydantic~=2.8.2
+langchain~=0.2.16
+langchain-community~=0.2.16
+langchain_experimental~=0.0.65
+neo4j~=5.24.0
+qianfan~=0.4.7
+pypdf~=4.3.1
+json-repair~=0.29.2
+pydantic~=2.9.1
 requests~=2.32.3
+langgraph~=0.2.19

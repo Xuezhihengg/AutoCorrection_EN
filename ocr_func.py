@@ -71,4 +71,4 @@ def build_essay(res) -> str:
 
 
 if __name__ == '__main__':
-    print(orc("test_image/letter_1.png"))
+    print(orc("test_image/letter_2.png"))
